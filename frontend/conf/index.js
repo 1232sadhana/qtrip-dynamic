@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "http://65.0.40.89:8082" };
+const config = { backendEndpoint: "https://crio-1232sadhana-me-qkart-frontend-v2.onrender.com" };
 
 export default config;
